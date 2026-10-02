@@ -46,12 +46,6 @@ Covering the full chain — from **offense** (vuln research / bug bounty / red t
 | **Automation** — paginated collection, structured JSON/CSV output | **自动化采集** — 自动翻页、结构化落盘 |
 | **AI-assisted** — LLM-driven code audit & bypass-strategy building | **AI 赋能** — LLM 辅助代码审计与绕过策略构建 |
 
-## 📌 精选项目 · Featured Projects
-
-| Project / 项目 | What it is / 说明 |
-|---|---|
-| [ShieldProbe](https://github.com/xiaoqilin711/shieldprobe) | 动态反爬分析框架：签名识别 + 环境指纹清单 + 借道浏览器过盾。📄 [实战复盘](https://github.com/xiaoqilin711/shieldprobe/blob/main/docs/case-study.md) · Dynamic anti-bot analysis framework |
-
 ## 🧰 技术栈 · Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633) ![Nmap](https://img.shields.io/badge/-Nmap-4682B4) ![SQLMap](https://img.shields.io/badge/-SQLMap-333) ![Metasploit](https://img.shields.io/badge/-Metasploit-666) ![Frida](https://img.shields.io/badge/-Frida-000) ![Jadx](https://img.shields.io/badge/-Jadx-00BCD4) ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33) ![LLM/AI](https://img.shields.io/badge/-LLM%2FAI-8A2BE2)
